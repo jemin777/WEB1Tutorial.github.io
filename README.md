@@ -13,7 +13,8 @@ For future use  to be  used  with  WEB1.0 webservice server.
 That  is   used  only  for  organization,clients and that web1.0serverpart1 is not opensource.  ,Web1.0  webservice  course
 is  not  opensource.
 WEB1.0 Webservice Part2  server  is  used only  for  Professional  purpose. 
-
+Web1.0 Professional Edition  is  free  to use  for  Professional and it  is GNUGPL3 Licensed.
+But Web1.0 Enterprise Edition is not opensource and  it  is  MIT Licensed.
 
 
 
